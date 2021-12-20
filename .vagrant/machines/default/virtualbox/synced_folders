@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","disabled":false,"guestpath":"/vagrant","hostpath":"F:/School/OneDrive - De Haagse Hogeschool/HBO ICT/Jaar 4/Minor cloud technology/Cloud technology 2/vagrant_nextcloud","rsync_auto":true,"rsync_verbose":true,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
