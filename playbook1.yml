@@ -20,11 +20,7 @@
         rule: allow
         port: 443
         proto: tcp
-    - name: Allow all access to ssh port 22
-      ufw:
-        rule: allow
-        port: 22
-        proto: ssh
+   
 
 
 
